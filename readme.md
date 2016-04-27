@@ -1,5 +1,4 @@
 ﻿#Welcome to use fastcgi_cpp
-by: dragon jiang <  jianlinlong@gmail.com  >
 
 fastcgi_cpp is a modern lightweight c++ web framework base on the fastcgi official C++ library package, it's simple and easy to use and powerful. 
 Combined with nginx and fastcgi_cpp you can quickly develop a highly efficient and flexible web application.
